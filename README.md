@@ -26,7 +26,8 @@ Demo:
 
 ### Scenario 2 - Deploy a serverless full-stack web app
 #### Architecture
-![image](https://github.com/PNg-HA/Deploy-different-web-app-on-AWS/assets/93396414/e103107e-6d48-4f2c-bb49-3923ba735976)
+![image](https://github.com/PNg-HA/Deploy-different-web-apps-on-AWS/assets/93396414/ffad6aa4-9bb9-4f91-b133-b2096717a901)
+
 #### AWS Amplify involved:
 Source code: [index.html](index.html)
 ##### AWS API Gateway involved
